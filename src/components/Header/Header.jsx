@@ -33,7 +33,7 @@ const navItems = [
   },
   {
     name : "Add Post",
-    slug:" /add-post",
+    slug:"/add-post",
     active: authStatus
   }
 ]
